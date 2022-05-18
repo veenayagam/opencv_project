@@ -15,12 +15,12 @@
 ## Document scanner
 
 ### Initial Image
-![document](https://user-images.githubusercontent.com/72549846/168929340-8c8044b2-a894-47ac-a113-77e398a71144.jpg)
+![document](https://user-images.githubusercontent.com/72549846/168931717-f816e495-a8df-476a-a59b-ade182e9ddf7.png)
 
 ### Output Image
 
 ### StackedImages
-![StackedImages](https://user-images.githubusercontent.com/72549846/168929582-0332ee7e-4712-4172-a94c-56da58c32dcf.png)
+![StackedImages](https://user-images.githubusercontent.com/72549846/168931732-a2ad576d-c474-48a8-95db-1410d0592107.png)
 
 ### ImageWarped
-![ImageWarped](https://user-images.githubusercontent.com/72549846/168929571-3c07ea38-dcfe-418f-b87d-0ffe55378689.png)
+![ImageWarped](https://user-images.githubusercontent.com/72549846/168931728-39d0951f-e294-4f65-84a2-bfa642690949.png)
